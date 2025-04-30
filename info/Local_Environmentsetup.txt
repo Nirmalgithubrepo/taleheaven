@@ -1,0 +1,10 @@
+Important commands:
+
+=> to set up react environment in project
+npm create vite@latest
+
+=> to install modules required for project.
+npm install
+
+=> to run jsx file(App) / to start the server 
+npm run dev
